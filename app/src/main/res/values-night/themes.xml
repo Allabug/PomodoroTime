@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.PomodoroTimer" parent="Theme.MaterialComponents.Light.DarkActionBar">
+        <item name="colorPrimary">@color/deep_red_100</item>
+        <item name="colorPrimaryDark">@color/deep_red_dark_100</item>
+        <item name="colorPrimaryVariant">@color/deep_red_dark_100</item>
+        <item name="colorSecondary">@color/deep_red_100</item>
+        <item name="colorSecondaryVariant">@color/deep_red_light_100</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">@color/deep_red_dark_100</item>
+    </style>
+</resources>
